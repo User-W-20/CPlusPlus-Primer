@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|solutionrelative:C\u002B\u002B primer\\5.12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|solutionrelative:C\u002B\u002B primer\\5.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|solutionrelative:C\u002B\u002B primer\\5.10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.44_47.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|solutionrelative:C\u002B\u002B primer\\13.44_47.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|solutionrelative:C\u002B\u002B primer\\13.48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.44_47.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E8CA08-DDF1-4436-A060-DF9C5AA5C4A8}|C\u002B\u002B primer\\C\u002B\u002B primer.vcxproj|solutionrelative:C\u002B\u002B primer\\13.44_47.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.12.cpp",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.12.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B primer\\5.12.cpp",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.12.cpp",
+              "RelativeToolTip": "C\u002B\u002B primer\\5.12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T07:01:42.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.11.cpp",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.11.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B primer\\5.11.cpp",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.11.cpp",
+              "RelativeToolTip": "C\u002B\u002B primer\\5.11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T07:01:36.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5.10.cpp",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.10.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B primer\\5.10.cpp",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\5.10.cpp",
+              "RelativeToolTip": "C\u002B\u002B primer\\5.10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T07:01:26.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "13.48.cpp",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.48.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B primer\\13.48.cpp",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.48.cpp",
+              "RelativeToolTip": "C\u002B\u002B primer\\13.48.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T04:11:05.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "13.44_47.cpp",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.44_47.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B primer\\13.44_47.cpp",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.44_47.cpp",
+              "RelativeToolTip": "C\u002B\u002B primer\\13.44_47.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAA0wDQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T03:59:54.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "13.44_47.h",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.44_47.h",
+              "RelativeDocumentMoniker": "C\u002B\u002B primer\\13.44_47.h",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\C\u002B\u002B primer\\C\u002B\u002B primer\\13.44_47.h",
+              "RelativeToolTip": "C\u002B\u002B primer\\13.44_47.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T14:56:46.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\12.2.h.obj",
+            "outputs": [
+                "C:\\Users\\X\\source\\repos\\C++ primer\\C++ primer\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\X\\source\\repos\\C++ primer\\C++ primer\\x64\\Debug\\12.2.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "12.2.h",
+                    "source-path": "c:\\users\\x\\source\\repos\\c++ primer\\c++ primer\\12.2.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

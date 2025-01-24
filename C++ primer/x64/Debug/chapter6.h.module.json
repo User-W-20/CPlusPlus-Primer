@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Chapter6.h.obj",
+            "outputs": [
+                "C:\\Users\\X\\source\\repos\\C++ primer\\C++ primer\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\X\\source\\repos\\C++ primer\\C++ primer\\x64\\Debug\\Chapter6.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Chapter6.h",
+                    "source-path": "c:\\users\\x\\source\\repos\\c++ primer\\c++ primer\\chapter6.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
