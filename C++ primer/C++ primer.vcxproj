@@ -221,6 +221,12 @@
     <ClCompile Include="13.42_TextQuery.cpp" />
     <ClCompile Include="13.44_47.cpp" />
     <ClCompile Include="13.48.cpp" />
+    <ClCompile Include="13.49_Message.cpp" />
+    <ClCompile Include="13.49_String.cpp" />
+    <ClCompile Include="13.49_StrVec.cpp" />
+    <ClCompile Include="13.53.cpp" />
+    <ClCompile Include="13.53_test.cpp" />
+    <ClCompile Include="13.58.cpp" />
     <ClCompile Include="2.18.cpp" />
     <ClCompile Include="2.3.cpp" />
     <ClCompile Include="2.34.cpp" />
@@ -371,7 +377,11 @@
     <ClInclude Include="13.42_StrVec.h" />
     <ClInclude Include="13.42_TextQuery.h" />
     <ClInclude Include="13.44_47.h" />
+    <ClInclude Include="13.49_Message.h" />
+    <ClInclude Include="13.49_String.h" />
+    <ClInclude Include="13.49_StrVec.h" />
     <ClInclude Include="13.5.h" />
+    <ClInclude Include="13.53.h" />
     <ClInclude Include="13.8.h" />
     <ClInclude Include="ex7_02.h" />
     <ClInclude Include="Sales_data.h" />

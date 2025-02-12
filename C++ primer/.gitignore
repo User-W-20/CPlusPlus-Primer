@@ -1,0 +1,17 @@
+# 忽略 Visual Studio 临时文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 忽略编译生成的文件
+x64/Debug/
+*.obj
+*.pdb
+*.exe
+
+# 忽略其他常见的 IDE 和系统文件
+*.log
+*.bak
+*.swp
