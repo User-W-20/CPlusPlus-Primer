@@ -354,6 +354,7 @@
     <ClCompile Include="9.50.cpp" />
     <ClCompile Include="9.51.cpp" />
     <ClCompile Include="9.52.cpp" />
+    <ClCompile Include="Chapter14_Demo.cpp" />
     <ClCompile Include="Chapter6.h" />
     <ClCompile Include="CP5_ex7_04_h.cpp" />
   </ItemGroup>
