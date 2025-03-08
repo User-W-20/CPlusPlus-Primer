@@ -1,4 +1,0 @@
-﻿  14.49.cpp
-C:\Users\X\source\repos\C++ primer\C++ primer\14.49.cpp(17,7): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
-C:\Users\X\source\repos\C++ primer\C++ primer\14.49.cpp(136,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
-  C++ primer.vcxproj -> C:\Users\X\source\repos\C++ primer\x64\Debug\C++ primer.exe
