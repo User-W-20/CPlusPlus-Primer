@@ -492,6 +492,7 @@
     <ClCompile Include="Chapter15\15.9_main.cpp" />
     <ClCompile Include="Chapter15\15.9_quote.cpp" />
     <ClCompile Include="Chapter15_Demo.cpp" />
+    <ClCompile Include="Chapter16_Demo.cpp" />
     <ClCompile Include="Chapter6.h" />
   </ItemGroup>
   <ItemGroup>

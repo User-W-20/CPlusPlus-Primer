@@ -1034,7 +1034,6 @@
     <ClCompile Include="Chapter15\15.35_36_37_main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter15\15.32.cpp" />
     <ClCompile Include="Chapter15\15.39_40_TextQuery.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -1105,6 +1104,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Chapter15\15.42_c\main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter16_Demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter15\15.32.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
