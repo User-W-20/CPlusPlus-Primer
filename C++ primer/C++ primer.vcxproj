@@ -526,6 +526,7 @@
     <ClCompile Include="Chapter16\16.64_65.cpp" />
     <ClCompile Include="Chapter16\16.7.cpp" />
     <ClCompile Include="Chapter16_Demo.cpp" />
+    <ClCompile Include="Chapter17_Demo.cpp" />
     <ClCompile Include="Chapter6.h" />
   </ItemGroup>
   <ItemGroup>

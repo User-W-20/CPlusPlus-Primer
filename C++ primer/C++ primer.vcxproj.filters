@@ -1211,6 +1211,9 @@
     <ClCompile Include="Chapter16\16.64_65.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter17_Demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sales_item.h">
