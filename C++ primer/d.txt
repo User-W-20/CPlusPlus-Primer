@@ -1,0 +1,6 @@
+apple 苹果
+apple 苹果子公司
+book 书
+book 图书
+cat 猫
+dog 狗

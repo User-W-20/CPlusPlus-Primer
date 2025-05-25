@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>Default</LanguageStandard>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -526,6 +526,27 @@
     <ClCompile Include="Chapter16\16.64_65.cpp" />
     <ClCompile Include="Chapter16\16.7.cpp" />
     <ClCompile Include="Chapter16_Demo.cpp" />
+    <ClCompile Include="Chapter17\15.27.cpp" />
+    <ClCompile Include="Chapter17\17.10.cpp" />
+    <ClCompile Include="Chapter17\17.11_12_13.cpp" />
+    <ClCompile Include="Chapter17\17.14_15_16.cpp" />
+    <ClCompile Include="Chapter17\17.17_18.cpp" />
+    <ClCompile Include="Chapter17\17.19_20.cpp" />
+    <ClCompile Include="Chapter17\17.1_2.cpp" />
+    <ClCompile Include="Chapter17\17.21.cpp" />
+    <ClCompile Include="Chapter17\17.23.cpp" />
+    <ClCompile Include="Chapter17\17.24.cpp" />
+    <ClCompile Include="Chapter17\17.25.cpp" />
+    <ClCompile Include="Chapter17\17.28_29_30.cpp" />
+    <ClCompile Include="Chapter17\17.33.cpp" />
+    <ClCompile Include="Chapter17\17.35_36.cpp" />
+    <ClCompile Include="Chapter17\17.37_38.cpp" />
+    <ClCompile Include="Chapter17\17.39.cpp" />
+    <ClCompile Include="Chapter17\17.3\main.cpp" />
+    <ClCompile Include="Chapter17\17.3\textquery.cpp" />
+    <ClCompile Include="Chapter17\17.4_5_6\main.cpp" />
+    <ClCompile Include="Chapter17\17.4_5_6\SalesData.cpp" />
+    <ClCompile Include="Chapter17\17.9.cpp" />
     <ClCompile Include="Chapter17_Demo.cpp" />
     <ClCompile Include="Chapter6.h" />
   </ItemGroup>
@@ -665,6 +686,9 @@
     <ClInclude Include="Chapter16\16.58\strvec.h" />
     <ClInclude Include="Chapter16\16.58\vec.h" />
     <ClInclude Include="Chapter16\16.62\Sales_data.h" />
+    <ClInclude Include="Chapter17\17.11_12_13_quiz.h" />
+    <ClInclude Include="Chapter17\17.3\textquery.h" />
+    <ClInclude Include="Chapter17\17.4_5_6\SalesData.h" />
     <ClInclude Include="Sales_data.h" />
     <ClInclude Include="Sales_item.h" />
   </ItemGroup>
