@@ -548,6 +548,7 @@
     <ClCompile Include="Chapter17\17.4_5_6\SalesData.cpp" />
     <ClCompile Include="Chapter17\17.9.cpp" />
     <ClCompile Include="Chapter17_Demo.cpp" />
+    <ClCompile Include="Chapter18_Demo.cpp" />
     <ClCompile Include="Chapter6.h" />
   </ItemGroup>
   <ItemGroup>

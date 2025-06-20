@@ -15,4 +15,4 @@
 //	Quiz<5>ans(answer), stu_ans(stu_answer);
 //	std::cout << grade(ans, stu_ans) << std::endl;
 //	return 0;
-//}
+//} 
