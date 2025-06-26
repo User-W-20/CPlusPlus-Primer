@@ -526,7 +526,6 @@
     <ClCompile Include="Chapter16\16.64_65.cpp" />
     <ClCompile Include="Chapter16\16.7.cpp" />
     <ClCompile Include="Chapter16_Demo.cpp" />
-    <ClCompile Include="Chapter17\15.27.cpp" />
     <ClCompile Include="Chapter17\17.10.cpp" />
     <ClCompile Include="Chapter17\17.11_12_13.cpp" />
     <ClCompile Include="Chapter17\17.14_15_16.cpp" />
@@ -548,6 +547,14 @@
     <ClCompile Include="Chapter17\17.4_5_6\SalesData.cpp" />
     <ClCompile Include="Chapter17\17.9.cpp" />
     <ClCompile Include="Chapter17_Demo.cpp" />
+    <ClCompile Include="Chapter18\18.17.cpp" />
+    <ClCompile Include="Chapter18\18.20.cpp" />
+    <ClCompile Include="Chapter18\18.22.cpp" />
+    <ClCompile Include="Chapter18\18.25.cpp" />
+    <ClCompile Include="Chapter18\18.26.cpp" />
+    <ClCompile Include="Chapter18\18.27.cpp" />
+    <ClCompile Include="Chapter18\18.29.cpp" />
+    <ClCompile Include="Chapter18\18.3.cpp" />
     <ClCompile Include="Chapter18_Demo.cpp" />
     <ClCompile Include="Chapter6.h" />
   </ItemGroup>

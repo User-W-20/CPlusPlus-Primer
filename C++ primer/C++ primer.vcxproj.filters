@@ -1259,9 +1259,6 @@
     <ClCompile Include="Chapter17\17.25.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter17\15.27.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Chapter17\17.28_29_30.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -1278,6 +1275,30 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Chapter18_Demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter18\18.3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter18\18.25.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter18\18.17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter18\18.20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter18\18.29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter18\18.22.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter18\18.26.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter18\18.27.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
